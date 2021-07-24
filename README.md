@@ -14,10 +14,11 @@ Rigor
 Algorithms & AI
 Group & interpersonal
 
-[Subject](./subject/fillit.en.pdf)
-
-## Compile
+# Compile
 
 ```
 make
 ```
+
+# Subject of project
+[Subject](./subject/fillit.en.pdf)
